@@ -2,3 +2,5 @@ mediapipe
 pandas
 opencv-python-headless
 scikit-learn
+torch
+tensorflow
